@@ -1,0 +1,16 @@
+{
+    "glasses": [{
+        "width": 123,
+        "height": 47,
+        "path": "./assets/glasses/glass1.png"	
+    },{
+        "width": 136,
+        "height": 30,
+        "path": "./assets/glasses/glass2.png"	
+    },{
+        "width": 135,
+        "height": 44,       
+        "path": "./assets/glasses/glass3.png"	
+    }]
+    
+}   
